@@ -1,18 +1,18 @@
-# My Portfolio
-Welcome to my portfolio repository! This is a collection of my work, showcasing the projects I've completed and the skills I've acquired over the years.
-## About Me
-I'm Ana Piqueras, a Web Developer with a passion for backend development. This portfolio showcases my journey, highlighting the projects I've worked on and the skills I've acquired along the way.
+## Sobre mi
+Soy Ana Piqueras, Desarrolladora Web apasionada por el backend.
+
+# Mi Portfolio
+Este repositorio contiene todos los proyectos y trabajos que he realizado como Desarrolladora Web en estos años.
 
 #### abpj76@gmail.com
-
 #### [Curricum Vitae](CV_ANA.pdf)
 #### [LinkedIn](https://www.linkedin.com/in/ana-piqueras-3245b428b/)
 
-## Projects
+## Proyectos
 <ul>
   <li><strong><a href="https://github.com/anapi76/Divino.git">Divino (PFC)</a></strong></li>
-   <p>A web application for wine management built with Symfony, providing a user-friendly interface and a RESTful API.</p>
-  <li><strong><a href="https://github.com/anapi76/DWES.git">DWES Projects</a></strong></li>
-   <p>Server-Side Web Development Projects</p>
+   <p>Aplicación web para la gestión de vinos, bodegas, denominaciones de origen y valoraciones</p>
+  <li><strong><a href="https://github.com/anapi76/DWES.git">Proyectos DWES</a></strong></li>
+   <p>Proyectos realizados en Desarrollo Web Entorno Servidor</p>
 </ul>
 
