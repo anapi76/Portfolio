@@ -14,5 +14,7 @@ Este repositorio contiene todos los proyectos y trabajos que he realizado como D
    <p>Aplicación web para la gestión de vinos, bodegas, denominaciones de origen y valoraciones</p>
   <li><strong><a href="https://github.com/anapi76/DWES.git">Proyectos DWES</a></strong></li>
    <p>Proyectos realizados en Desarrollo Web Entorno Servidor</p>
+  <li><strong><a href="https://github.com/anapi76/DWEC.git">Proyectos DWEC</a></strong></li>
+   <p>Proyectos realizados en Desarrollo Web Entorno Cliente</p>
 </ul>
 
