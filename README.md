@@ -10,5 +10,6 @@ I'm Ana Piqueras, a Web Developer with a passion for backend development. This p
 
 ## Projects
 <ul>
-  <li><strong><a href="https://github.com/anapi76/Divino.git">Divino (PFC) - Web APP</a></strong></li>
+  <li><strong><a href="https://github.com/anapi76/Divino.git">Divino (PFC)</a></strong></li>
+   <p>A web application for wine management built with Symfony, providing a user-friendly interface and a RESTful API.</p>
 </ul>
