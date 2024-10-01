@@ -1,14 +1,9 @@
 ## Sobre mi
 Soy Ana Piqueras, Desarrolladora Web apasionada por el backend. Este repositorio contiene todos los proyectos y trabajos que he realizado como Desarrolladora Web en estos años.
-
 ## Contacto
 #### abpj76@gmail.com
 #### [Curricum Vitae](CV_ANA.pdf)
 #### [LinkedIn](https://www.linkedin.com/in/ana-piqueras-3245b428b/)
-
-
-
-
 ## Tecnologías
 - BBDD relacionales, MySQL, PostgreSQL
 - PHP, JavaScript, TypeScript, Java
@@ -21,7 +16,6 @@ Soy Ana Piqueras, Desarrolladora Web apasionada por el backend. Este repositorio
 - Microservicios, MVC
 - API RESTful, Swagger, Open API, Postman
 - Visual Studio Code, IntelliJ IDEA
-
 ## Proyectos
 <ul>
   <li><strong><a href="https://github.com/anapi76/Divino.git">Divino (PFC)</a></strong></li>
@@ -30,5 +24,7 @@ Soy Ana Piqueras, Desarrolladora Web apasionada por el backend. Este repositorio
    <p>Proyectos realizados en Desarrollo Web Entorno Servidor</p>
   <li><strong><a href="https://github.com/anapi76/DWEC.git">Proyectos DWEC</a></strong></li>
    <p>Proyectos realizados en Desarrollo Web Entorno Cliente</p>
+  <li><strong><a href="https://github.com/anapi76/java_projects.git">Proyectos Java</a></strong></li>
+   <p>Proyectos realizados en las prácticas FCT con Java</p>
 </ul>
 
