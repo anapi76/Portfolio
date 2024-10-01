@@ -18,7 +18,7 @@ Soy Ana Piqueras, Desarrolladora Web apasionada por el backend. Este repositorio
 - Visual Studio Code, IntelliJ IDEA
 ## Proyectos
 <ul>
-  <li><strong><a href="https://github.com/anapi76/Divino.git">Divino (PFC)</a></strong></li>
+  <li><strong><a href="https://github.com/anapi76/Divino.git">Proyecto final de Ciclo</a></strong></li>
    <p>Aplicación web para la gestión de vinos, bodegas, denominaciones de origen y valoraciones</p>
   <li><strong><a href="https://github.com/anapi76/DWES.git">Proyectos DWES</a></strong></li>
    <p>Proyectos realizados en Desarrollo Web Entorno Servidor</p>
