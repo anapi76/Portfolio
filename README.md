@@ -5,6 +5,7 @@ Soy Ana Piqueras, Desarrolladora Web apasionada por el backend. Este repositorio
 #### [Curricum Vitae](CV_ANA.pdf)
 #### [LinkedIn](https://www.linkedin.com/in/ana-piqueras-3245b428b/)
 ## Tecnologías
+
 - BBDD relacionales, MySQL, PostgreSQL
 - PHP, JavaScript, TypeScript, Java
 - HTML5, CSS3, XML, JSON, Bootstrap5, Twig
