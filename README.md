@@ -1,5 +1,5 @@
 ## Sobre mi
-Soy Ana Piqueras, Desarrolladora Web apasionada por el backend. Este repositorio contiene todos los proyectos y trabajos que he realizado como Desarrolladora Web en estos años.
+Soy Ana Piqueras, desarrolladora apasionada por el backend. Este repositorio contiene todos los proyectos y trabajos que he realizado como Desarrolladora Web en estos años.
 ## Contacto
 #### abpj76@gmail.com
 #### [Curricum Vitae](CV_ANA.pdf)
